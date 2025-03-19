@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=69-WfrVBli8&t=2000s</p>
 
 <h2>📸Screenshot</h2>
 Aqui está uma prévia do projeto:
-<img src="https://github.com/gabriel-lorena/login-dark-them/blob/img/ReadMeImage.png?raw=true" alt="Prévia do projeto">
+<img src="https://github.com/gabriel-lorena/login-dark-them/img/ReadMeImage.png?raw=true" alt="Prévia do projeto">
 
 <h2>🎯Objetivos Atingidos</h2>
 Estruturar páginas web com HTML. Estilizar elementos utilizando CSS.

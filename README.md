@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=69-WfrVBli8&t=2000s</p>
 </div>
 
 <h2>📸Screenshot</h2>
-Aqui está uma prévia do projeto: image
+Aqui está uma prévia do projeto:
+![image](https://github.com/user-attachments/assets/12939bb5-4a4a-4b2a-9227-6d20d2132f09)
 
 <h2>🎯Objetivos Atingidos</h2>
 Estruturar páginas web com HTML. Estilizar elementos utilizando CSS.
